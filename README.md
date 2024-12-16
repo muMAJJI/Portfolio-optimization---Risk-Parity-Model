@@ -1,2 +1,2 @@
 # Risk-Parity-Model
-implementation of the Risk Parity portfolio optimization model in Python
+The Risk Parity model is a portfolio optimization strategy that focuses on the allocation of risk rather than capital. As a result, the portfolio is well-diversified and more resilient to market downturns.
