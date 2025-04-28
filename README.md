@@ -6,7 +6,7 @@ In this project, we present the Risk Budgeting method for portfolio optimization
 
 The objective of this method is to allocate asset weights so that each asset achieves a specified contribution to the portfolio’s overall risk.
 
-Specifically:
+Specifically :
             - **Equally Weighted Portfolio (EWP)**: Assets have the same weight but contribute differently to the portfolio’s total volatility.
             - **Risk Parity Portfolio (RPP)**: Assets contribute equally to the portfolio’s total volatility, although their weights may vary.
 # 🚀 Repository Structure
