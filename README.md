@@ -1,6 +1,6 @@
 # 📚 Portfolio Optimization: Risk Parity
 
-Quantitative Researcher | [Mustafa MAJJI](linkedin.com/in/mustafa-majji-3a59861a2)
+Quantitative Researcher | [Mustafa MAJJI](https://www.linkedin.com/in/mustafa-majji-3a59861a2/)
 
 ***
 
